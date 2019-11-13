@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/contracts": "~5.0",
+        "illuminate/contracts": "6.5.1",
         "illuminate/http": "~5.0",
         "illuminate/support": "6.5.0",
         "happyr/linkedin-api-client": "~1.0",
